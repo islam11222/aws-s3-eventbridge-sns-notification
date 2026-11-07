@@ -6,6 +6,7 @@
 > 個人学習・検証プロジェクト | AWS リージョン: 東京 (`ap-northeast-1`) | 検証日: 2026年11月7日
 
 **[English documentation / 英語版（準備中）](README_EN.md)** | [設定・動作確認のスクリーンショット](screenshots/)
+[システム構成図を見る](architecture/diagram.md)
 
 ## 1. プロジェクト概要
 
