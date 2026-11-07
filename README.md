@@ -189,3 +189,36 @@ S3、EventBridge、SNS を組み合わせ、イベント発生からメール通
 
 **Project type:** Personal hands-on learning project (not a production deployment)  
 **AWS region:** `ap-northeast-1` (Tokyo)
+---
+
+## 12. 設定・動作確認のスクリーンショット
+
+以下は、AWS S3・EventBridge・SNS の設定および動作確認の記録です。
+
+### 1. EventBridge ルールの設定
+
+![EventBridge Rule](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2009_59_55%20PM-1.png)
+
+### 2. SNS メール購読の確認
+
+![SNS Subscription](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2009_59_57%20PM-2.png)
+
+### 3. EventBridge ルールの有効化
+
+![EventBridge Enabled](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2009_59_59%20PM-3.png)
+
+### 4. S3 パブリックアクセスのブロック
+
+![S3 Security](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2010_00_05%20PM-4.png)
+
+### 5. S3 と EventBridge の連携
+
+![S3 EventBridge](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2010_00_10%20PM-5.png)
+
+### 6. SNS メール通知の受信結果
+
+![SNS Email](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2010_00_15%20PM-6.png)
+
+### 7. EventBridge と SNS のターゲット設定
+
+![EventBridge Target](screenshots/ChatGPT%20Image%20Nov%207%2C%202026%2C%2010_00_19%20PM-7.png)
